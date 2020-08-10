@@ -7,7 +7,7 @@
 // @include  /h42.pm.netease/*
 // @exclude  *://login.netease.com/*
 // @grant        none
-// @updateURL     http://https://github.com/qtdwzAdam/test/raw/master/work.js
+// @updateURL    https://raw.githubusercontent.com/qtdwzAdam/test/master/work.js
 // ==/UserScript==
 
 (function() {
